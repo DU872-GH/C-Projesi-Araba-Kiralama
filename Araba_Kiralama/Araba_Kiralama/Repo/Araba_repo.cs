@@ -11,7 +11,7 @@ namespace araba_kiralama.Repo
     public class Araba_repo
     {
         private readonly string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;
-    AttachDbFilename=C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\Veritabanı\Araçlar.mdf;
+    AttachDbFilename=|DataDirectory|\Veritabanı\Araçlar.mdf;
     Integrated Security=True;";
 
         public List<Arabalar> GetAraba()

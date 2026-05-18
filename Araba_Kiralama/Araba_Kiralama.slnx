@@ -1,3 +1,11 @@
 <Solution>
-  <Project Path="araba_kiralama/araba_kiralama.csproj" />
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Default" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="araba_kiralama/araba_kiralama.csproj">
+    <BuildType Solution="Default|*" Project="Release" />
+    <Build Solution="Default|*" Project="false" />
+  </Project>
 </Solution>

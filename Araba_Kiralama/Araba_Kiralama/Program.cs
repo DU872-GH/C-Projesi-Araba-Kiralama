@@ -1,3 +1,6 @@
+using System.IO;
+using System.Windows.Forms;
+
 namespace araba_kiralama
 {
     internal static class Program
@@ -11,6 +14,8 @@ namespace araba_kiralama
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
+            AppDomain.CurrentDomain.SetData("DataDirectory",
+                Path.GetDirectoryName(Application.ExecutablePath) + @"\..\..\..\..\araba_kiralama");
             Application.Run(new AnaMenu());
         }
     }

@@ -20,5 +20,17 @@ namespace araba_kiralama
             btnArabaEkle form = new btnArabaEkle();
             form.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MusteriListesi form = new MusteriListesi();
+            form.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AracKirala form = new AracKirala();
+            form.Show();
+        }
     }
 }
