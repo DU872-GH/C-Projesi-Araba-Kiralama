@@ -10,9 +10,8 @@ namespace araba_kiralama.Repo
 {
     public class Araba_repo
     {
-        private readonly string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;
-    AttachDbFilename=|DataDirectory|\Veritabanı\Araçlar.mdf;
-    Integrated Security=True;";
+        private readonly string ConnectionString =
+    @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\Veritabani\Araclar.mdf;Integrated Security=True;";
 
         public List<Arabalar> GetAraba()
         {
@@ -35,9 +34,9 @@ namespace araba_kiralama.Repo
                                 Arabalar arabalar1 = new Arabalar();
                                 arabalar1.id = reader.GetInt32(0);
                                 arabalar1.plaka = reader.GetString(1);
-                                arabalar1.tur = reader.GetString(2);
+                                arabalar1.turu = reader.GetString(2);
                                 arabalar1.marka = reader.GetString(3);
-                                arabalar1.model = reader.GetString(4);
+                                arabalar1.modeli = reader.GetString(4);
                                 arabalar1.yil = reader.GetString(5);
 
                                 arabalar.Add(arabalar1);
@@ -46,7 +45,8 @@ namespace araba_kiralama.Repo
                     }
                 }
             }
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
                 Console.WriteLine("Ayrıcalık: " + ex.ToString());
             }
 
@@ -71,9 +71,9 @@ namespace araba_kiralama.Repo
                                 Arabalar arabalar1 = new Arabalar();
                                 arabalar1.id = reader.GetInt32(0);
                                 arabalar1.plaka = reader.GetString(1);
-                                arabalar1.tur = reader.GetString(2);
+                                arabalar1.turu = reader.GetString(2);
                                 arabalar1.marka = reader.GetString(3);
-                                arabalar1.model = reader.GetString(4);
+                                arabalar1.modeli = reader.GetString(4);
                                 arabalar1.yil = reader.GetString(5);
 
                                 return arabalar1;
@@ -97,14 +97,14 @@ namespace araba_kiralama.Repo
                 {
                     connection.Open();
                     string sql = "INSERT INTO arabalar" +
-                                 "(plaka, tur, marka, model, yil) VALUES " +
-                                 "(@plaka, @tur, @marka, @model, @yil);";
+                                 "(plaka, turu, marka, modeli, yil) VALUES " +
+                                 "(@plaka, @turu, @marka, @modeli, @yil);";
                     using (SqlCommand  command = new SqlCommand(sql, connection))
                     {
                         command.Parameters.AddWithValue("@plaka", arabalar.plaka);
-                        command.Parameters.AddWithValue("@tur", arabalar.tur);
+                        command.Parameters.AddWithValue("@turu", arabalar.turu);
                         command.Parameters.AddWithValue("@marka", arabalar.marka);
-                        command.Parameters.AddWithValue("@model", arabalar.model);
+                        command.Parameters.AddWithValue("@modeli", arabalar.modeli);
                         command.Parameters.AddWithValue("@yil", arabalar.yil);
 
                         command.ExecuteNonQuery();
@@ -124,15 +124,15 @@ namespace araba_kiralama.Repo
                 {
                     connection.Open();
                     string sql = "UPDATE arabalar " +
-                    "SET plaka=@plaka, tur=@tur, marka=@marka, model=@model, yil=@yil " +
-                    "WHERE id=@id";
+                    "SET plaka=@plaka, turu=@turu, marka=@marka, modeli=@modeli, yil=@yil WHERE id=@id";
 
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
+                        command.Parameters.AddWithValue("@id", arabalar.id);
                         command.Parameters.AddWithValue("@plaka", arabalar.plaka);
-                        command.Parameters.AddWithValue("@tur", arabalar.tur);
+                        command.Parameters.AddWithValue("@turu", arabalar.turu);
                         command.Parameters.AddWithValue("@marka", arabalar.marka);
-                        command.Parameters.AddWithValue("@model", arabalar.model);
+                        command.Parameters.AddWithValue("@modeli", arabalar.modeli);
                         command.Parameters.AddWithValue("@yil", arabalar.yil);
 
                         command.ExecuteNonQuery();
