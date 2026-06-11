@@ -8,9 +8,9 @@ namespace araba_kiralama.Modüller
     {
         public int id;
         public string plaka = "";
-        public string tur = "";
+        public string turu = "";
         public string marka = "";
-        public string model = "";
+        public string modeli = "";
         public string yil = "";
     }
 }
