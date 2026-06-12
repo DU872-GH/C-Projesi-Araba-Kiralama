@@ -1,0 +1,239 @@
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.Properties.Resources.resources
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfo.cs
+C:\Users\deniz\source\repos\araba_kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.exe
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll.config
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.deps.json
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.runtimeconfig.json
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_ki.F88CCF9A.Up2Date
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\refint\araba_kiralama.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.genruntimeconfig.cache
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\ref\araba_kiralama.dll
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.btnArabaEkle.resources
+C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.EkleDüzenleForm.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.btnArabaEkle.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.EkleDüzenleForm.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.Properties.Resources.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.sourcelink.json
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\refint\araba_kiralama.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AnaMenu.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.exe
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll.config
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.deps.json
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.runtimeconfig.json
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_ki.F88CCF9A.Up2Date
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\ref\araba_kiralama.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriListesi.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriEkle.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracKirala.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AnaMenu.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracKirala.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.EkleDüzenleForm.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriEkle.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriListesi.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.Properties.Resources.resources
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfo.cs
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\refint\araba_kiralama.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.exe
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll.config
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.deps.json
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.runtimeconfig.json
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_ki.F88CCF9A.Up2Date
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.genruntimeconfig.cache
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\ref\araba_kiralama.dll
+C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracListesi.resources
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.exe
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll.config
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.deps.json
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.runtimeconfig.json
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AnaMenu.resources
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracListesi.resources
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.EkleDüzenleForm.resources
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriEkle.resources
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.Properties.Resources.resources
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AssemblyInfo.cs
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_ki.F88CCF9A.Up2Date
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\refint\araba_kiralama.dll
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.pdb
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.genruntimeconfig.cache
+C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\ref\araba_kiralama.dll
