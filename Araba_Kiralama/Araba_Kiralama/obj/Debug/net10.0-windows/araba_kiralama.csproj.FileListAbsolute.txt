@@ -56,7 +56,6 @@ C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-wind
 C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.btnArabaEkle.resources
 C:\Users\deniz\source\repos\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.EkleDüzenleForm.resources
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.btnArabaEkle.resources
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.EkleDüzenleForm.resources
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.Properties.Resources.resources
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.GenerateResource.cache
@@ -114,9 +113,7 @@ C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kir
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_ki.F88CCF9A.Up2Date
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.genruntimeconfig.cache
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\ref\araba_kiralama.dll
-C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriListesi.resources
 C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.MusteriEkle.resources
-C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracKirala.resources
 C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.csproj.AssemblyReference.cache
 C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AnaMenu.resources
 C:\Users\deniz\Desktop\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracKirala.resources
@@ -237,3 +234,6 @@ C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama
 C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.pdb
 C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.genruntimeconfig.cache
 C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\ref\araba_kiralama.dll
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracListesi.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.AracTeslimEtme.resources
+C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\obj\Debug\net10.0-windows\araba_kiralama.KiralananAraclar.resources

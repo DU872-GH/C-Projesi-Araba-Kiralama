@@ -21,5 +21,10 @@ namespace araba_kiralama
             form.Show();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            KiralananAraclar form = new KiralananAraclar();
+            form.Show();
+        }
     }
 }

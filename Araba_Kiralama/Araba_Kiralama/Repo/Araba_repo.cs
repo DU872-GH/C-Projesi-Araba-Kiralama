@@ -12,7 +12,9 @@ namespace araba_kiralama.Repo
     public class Araba_repo
     {
         private readonly string ConnectionString =
-    @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\deniz\Desktop\Yeni klasör\C-Projesi-Araba-Kiralama-main\Araba_Kiralama\Araba_Kiralama\Veritabani\Araclar.mdf;Integrated Security=True;";
+    @"Data Source=(LocalDB)\MSSQLLocalDB;
+    AttachDbFilename=C:\Users\User\Desktop\C# Proje\C-Projesi-Araba-Kiralama\Araba_Kiralama\araba_kiralama\Veritabanı\Araclar.mdf;
+    Integrated Security=True;";
 
         public List<Arabalar> GetAraba()
         {

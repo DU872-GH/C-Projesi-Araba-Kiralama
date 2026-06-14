@@ -29,24 +29,38 @@
         private void InitializeComponent()
         {
             button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(298, 12);
+            button1.Location = new Point(261, 9);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(175, 80);
+            button1.Size = new Size(153, 60);
             button1.TabIndex = 0;
             button1.Text = "Araç Listesi";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // button2
+            // 
+            button2.Location = new Point(80, 226);
+            button2.Name = "button2";
+            button2.Size = new Size(117, 93);
+            button2.TabIndex = 1;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // AnaMenu
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 639);
+            ClientSize = new Size(700, 479);
+            Controls.Add(button2);
             Controls.Add(button1);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "AnaMenu";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Anasayfa";
@@ -56,5 +70,6 @@
         #endregion
 
         private Button button1;
+        private Button button2;
     }
 }
