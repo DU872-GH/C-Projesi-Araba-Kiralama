@@ -6,6 +6,10 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
+using System;
+using System.Drawing;
+using System.Drawing.Imaging;
+
 namespace araba_kiralama
 {
     public partial class AnaMenu : Form
@@ -17,13 +21,19 @@ namespace araba_kiralama
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AracListesi form = new AracListesi();
+            YoneticiPanel form = new YoneticiPanel();
             form.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             KiralananAraclar form = new KiralananAraclar();
+            form.Show();
+        }
+
+        private void girisKayitButton_Click(object sender, EventArgs e)
+        {
+            GirisForm form = new GirisForm();
             form.Show();
         }
     }
