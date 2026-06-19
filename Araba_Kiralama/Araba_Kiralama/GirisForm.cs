@@ -36,6 +36,13 @@ namespace araba_kiralama
             {
                 MessageBox.Show("Lütfen bilgilerinizi eksiksiz giriniz.", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
+            /*
+                eğer bilgiler geçerliyse, kullanıcıyı araç listesi formuna yönlendir, admin paneli için özel bir form ve
+                giriş bilgileri oluşturdum, doğru bilgilerle giriş yapıldığında admin paneline yönlendir, yanlış
+                bilgilerle giriş yapıldığında hata mesajı göstermek için if-else ile doğrulama kullandım. 
+            */
+
         }
 
         private void tcBox_TextChanged(object sender, EventArgs e)
