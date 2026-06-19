@@ -68,7 +68,7 @@
             label5.AutoSize = true;
             label5.Location = new Point(75, 172);
             label5.Name = "label5";
-            label5.Size = new Size(46, 15);
+            label5.Size = new Size(45, 15);
             label5.TabIndex = 15;
             label5.Text = "Telefon";
             // 
@@ -77,7 +77,7 @@
             label4.AutoSize = true;
             label4.Location = new Point(75, 148);
             label4.Name = "label4";
-            label4.Size = new Size(21, 15);
+            label4.Size = new Size(20, 15);
             label4.TabIndex = 14;
             label4.Text = "TC";
             // 
@@ -180,6 +180,7 @@
             Controls.Add(label2);
             Controls.Add(lbBaslık);
             Name = "MusteriEkle";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Müşteri Ekle";
             Load += MusteriEkle_Load;
             ResumeLayout(false);

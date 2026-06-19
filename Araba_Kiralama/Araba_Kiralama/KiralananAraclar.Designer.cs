@@ -65,6 +65,7 @@
             Controls.Add(btnTeslim);
             Controls.Add(KiraAraclar);
             Name = "KiralananAraclar";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Kiraladığınız Araç Listesi";
             ((System.ComponentModel.ISupportInitialize)KiraAraclar).EndInit();
             ResumeLayout(false);
